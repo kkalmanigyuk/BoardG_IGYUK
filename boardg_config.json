@@ -1,0 +1,16 @@
+{
+    "database": {
+        "path": "C:/Python/BOARDG/BOARDG/boardgames8.db"
+    },
+    "paths": {
+        "kölcsönzések": "C:/Python/BOARDG/BOARDG/Kölcsönzések",
+        "visszavételek": "C:/Python/BOARDG/BOARDG/Visszavételek",
+        "hiánylisták": "C:\\Python\\BOARDG\\BOARDG\\Hiányos visszahozatalok"
+    },
+    "SIP config": {
+        "SIP_ENABLED": true,
+        "SIP2_SERVER": "corvina.igyuk.hu",
+        "SIP2_PORT": 5192,
+        "TERMINAL_PASSWORD": "EXTPROG"
+    }
+}
